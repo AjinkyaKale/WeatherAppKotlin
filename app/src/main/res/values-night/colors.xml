@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5252</color>
+    <color name="colorPrimaryDark">#1A1A1C</color>
+    <color name="secondary">#FF5252</color>
+    <color name="colorSurface">#202125</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="jet">#DEFFFFFF</color>
+    <color name="oil">#DEFFFFFF</color>
+    <color name="charcoal">#C7FFFFFF</color>
+    <color name="monsoon">#ADFFFFFF</color>
+    <color name="jumbo">#61FFFFFF</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+
+    <color name="iconColor">#ADFFFFFF</color>
+    <color name="textTitleColor">#DEFFFFFF</color>
+
+    <color name="snackBarBackground">#404040</color>
+    <color name="settingsIconColor">#ADFFFFFF</color>
+
+    <color name="colorIcon">#FF8A65</color>
+
+</resources>

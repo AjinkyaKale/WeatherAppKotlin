@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WeatherAppKotlin</string>
+
+    <string name="google_map_key" translatable="false">AIzaSyA_D-l7MprEcr77uj5h3EfE1JU7OInohzo</string>
+
+    <!-- - - - - - - - Time Ago - - - - - - - - -->
+    <string name="just_now">just now</string>
+    <string name="a_minute_ago">a minute ago</string>
+    <string name="minutes_ago">%1$d minutes ago</string>
+    <string name="an_hour_ago">an hour ago</string>
+    <string name="hours_ago">%1$d hours ago</string>
+    <string name="yesterday">yesterday</string>
+    <!--/////////////////////////////////////////////////////-->
+
+    <!-- - - - - - - - -  Menu - - - - - - - - - - -->
+    <string name="action_delete">action delete</string>
+    <string name="search">Search</string>
+    <!--//////////////////////////////////////////////-->
+
+    <string name="city_history_text">You will see a history of your bookmarked cities here</string>
+    <string name="city_toolbar_title">Weather App</string>
+    <string name="city_placeholder">City</string>
+    <string name="bookmark">Bookmark</string>
+
+    <string name="something_went_wrong">Something went wrong!</string>
+
+    <!-- - - - - - - - -  Map - - - - - - - - - - -->
+    <string name="move_marker">Move marker</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="speed_measure">Km/h</string>
+    <string name="city_added">City is added in bookmark</string>
+    <string name="move_marker_for_accuracy">Please move you marker for accuracy</string>
+    <string name="deleted">Deleted</string>
+    <string name="today_forecast">Today\'s Weather Forecast</string>
+    <!--//////////////////////////////////////////////-->
+
+</resources>
